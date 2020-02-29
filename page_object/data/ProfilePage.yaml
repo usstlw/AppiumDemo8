@@ -1,0 +1,4 @@
+gotoLogin:
+  - by: xpath
+    locator: "//*[@text='%s']"
+    action: "//*[@text='%s']"
